@@ -27,6 +27,23 @@ If there is every a team working on this site, this is where their info would go
 6.Contact Page
 ![Contact Page](https://github.com/ChrisRuaboro/NavalCorrespondenceOnline/blob/master/Prototype/Screenshots/06Contact.png)
 Thought about implementing a way to redirect user to a new email form when contactus email would be pressed. I will implement in the future, but the text will suffice. Eventually i would love to have a social media presence with this project. The twitter link will redirect the user to twitter. No plans on other social media platforms.
+
 7. Login/Signup form
 ![html login](https://github.com/ChrisRuaboro/NavalCorrespondenceOnline/blob/master/Prototype/Screenshots/07Login.Signup-form.png)
-Once login is pressed the background will darken and the login form will zoom in. From there the user will 
+Once login is pressed the background will darken and the login form will zoom in. From there the user will enter their info to login.
+
+8. Plain dashboard
+![dashboard plain](https://github.com/ChrisRuaboro/NavalCorrespondenceOnline/blob/master/Prototype/Screenshots/08Dashboard.png)
+What the dash board will be is a main hub to where you utilize the program. Plan is to have a side bar to navigate the dashboard and the top bar to navigate the site.
+
+9. Dashboard With Templates
+![dashboard templates](https://github.com/ChrisRuaboro/NavalCorrespondenceOnline/blob/master/Prototype/Screenshots/09-Dashboard-with-templates.png)
+User will be allowed to access their old templates or create new ones. I imagine a search bar for templates. This will allow ease of finding certain documents. Each of the documents will either have the template name or the document name on them.
+
+10.Sidebar open view
+![Dashboard open sidebar](https://github.com/ChrisRuaboro/NavalCorrespondenceOnline/blob/master/Prototype/Screenshots/10Sidebar-open.png)
+This side bar will expand to allow the user more clarification of the tools. Still deciding if it would be a hover feature or click to expand.
+
+11.Editing template
+![Editing](https://github.com/ChrisRuaboro/NavalCorrespondenceOnline/blob/master/Prototype/Screenshots/11-Editing-document.png)
+Likely the main portion of my program. The user will have the ability to change the logo just by right clicking it. The date portion of the template will pull up a calendar allowing the user to easily have a date properly formatted. This picture show just portions of the document but encompasses all of the features. Blue highlighted lines will be input boxes to where the user can input their data. once the user inputs their data properly.
