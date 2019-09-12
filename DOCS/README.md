@@ -9,6 +9,10 @@ Naval Correspondence Online will allow you to create properly formatted document
 Requirements Traceability Matrix
 ![Requirements Traceability Matrix](https://github.com/ChrisRuaboro/NavalCorrespondenceOnline/blob/master/DOCS/RTM.PNG)
 
+## Use Case Diagram
+![Use Case](https://github.com/ChrisRuaboro/NavalCorrespondenceOnline/blob/master/DOCS/UML%20Case%20User.png)
+
+
 ## Data design
 [Sql Table Scripts](https://github.com/ChrisRuaboro/NavalCorrespondenceOnline/blob/master/DOCS/Starting%20scripts%20for%20Database%20Project%20Step%205.sql)
 ![ERD](https://github.com/ChrisRuaboro/NavalCorrespondenceOnline/blob/master/DOCS/ERD.PNG)
