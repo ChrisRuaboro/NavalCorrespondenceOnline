@@ -23,7 +23,9 @@ Page Structure
 |User Account Creation|(WIP)  |
 |HTML Page Structure|(WIP)|
 |Connection to Database|(WIP)|
+|Templates|(WIP)|
 |Public Information (MOS's,Title's,Address)|(Not Started)|
+|Subscription Service|(Backlogged)|
 |Third Party Account Creation  |(Backlogged)  |
 | Icons and Graphics |(Backlogged)  |
 |Email Implementation  |{Backlogged}  |
@@ -35,4 +37,4 @@ Page Structure
 
 ## Test Report
 
-See RTM
+[Tests](https://github.com/ChrisRuaboro/NavalCorrespondenceOnline/blob/master/DOCS/RTM.xlsx)
